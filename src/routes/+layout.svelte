@@ -33,7 +33,7 @@
 
 <a
   id="github"
-  href="https://github.com/ricin9/sveltekit-passwordless-login"
+  href="https://github.com/ricin9/sveltekit-totp-login"
   target="_blank">source code</a
 >
 
